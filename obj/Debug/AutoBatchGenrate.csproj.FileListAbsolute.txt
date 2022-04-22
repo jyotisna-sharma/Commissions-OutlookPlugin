@@ -1,0 +1,48 @@
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.csproj.GenerateResource.Cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.dll.manifest
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\AutoBatchGenrate.vsto
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\ActionLogger.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\ActionLogger.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Other\OutlookCode_Downloaded_Production\Compdept\AutoBatchGenrate\obj\Debug\AutoBatchGenrate.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\AutoBatchGenrate.dll.config
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\AutoBatchGenrate.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\AutoBatchGenrate.dll.manifest
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\AutoBatchGenrate.vsto
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\ActionLogger.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\MyAgencyVault.BusinessLibrary.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\MyAgencyVault.DataAccessLayer.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\bin\Debug\MyAgencyVault.EmailFax.pdb
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\Debug\AutoBatchGenrate.csprojResolveAssemblyReference.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\Debug\AutoBatchGenrate.csproj.GenerateResource.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\Debug\AutoBatchGenrate.csproj.CoreCompileInputs.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\Debug\AutoBatchGenrate.csproj.CopyComplete
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\Debug\AutoBatchGenrate.dll
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\Debug\AutoBatchGenrate.pdb
+E:\Jyotisna\Projects\Local SVN\Outlook_Plugin\Old\Production_Nov30_2021\obj\Debug\AutoBatchGenrate.csprojAssemblyReference.cache
+E:\Jyotisna\Projects\Local SVN\Outlook_Plugin\Old\Production_Nov30_2021\obj\Debug\AutoBatchGenrate.Properties.Resources.resources
+E:\Jyotisna\Projects\Local SVN\Outlook_Plugin\Old\Production_Nov30_2021\obj\Debug\AutoBatchGenrate.csproj.GenerateResource.cache
+E:\Jyotisna\Projects\Local SVN\Outlook_Plugin\Old\Production_Nov30_2021\obj\Debug\AutoBatchGenrate.dll
+E:\Jyotisna\Projects\Local SVN\Outlook_Plugin\Old\Production_Nov30_2021\obj\Debug\AutoBatchGenrate.pdb

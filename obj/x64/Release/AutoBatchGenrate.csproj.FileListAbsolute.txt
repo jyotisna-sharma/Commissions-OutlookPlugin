@@ -1,0 +1,3 @@
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\x64\Release\AutoBatchGenrate.Properties.Resources.resources
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\x64\Release\AutoBatchGenrate.csproj.GenerateResource.cache
+C:\Jyotisna\My Projects\Projects\Commissions_CodeBase\Local SVN\Trunk\trunk\AutoBatchGenerate_Trunk\obj\x64\Release\AutoBatchGenrate.csproj.CoreCompileInputs.cache
